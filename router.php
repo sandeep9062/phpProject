@@ -30,10 +30,20 @@ if (file_exists($file_path) && !is_dir($file_path)) {
     // Debug: Log the file being served
     file_put_contents('router_debug.log', date('Y-m-d H:i:s') . " - Serving file: {$file_path} with extension {$extension}\n", FILE_APPEND);
     
-    // Add cache control headers to prevent caching
+    // Add strong cache control headers to prevent caching
     header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
     header('Cache-Control: post-check=0, pre-check=0', false);
     header('Pragma: no-cache');
+    header('Expires: 0');
+    
+    // Force the browser to reload the script
+    if ($extension === 'js') {
+        header('Content-Type: application/javascript; charset=utf-8');
+        // Add a random query parameter to the URL to force reload
+        header('X-Content-Type-Options: nosniff');
+        readfile($file_path);
+        exit;
+    }
     
     switch ($extension) {
         case 'css':
