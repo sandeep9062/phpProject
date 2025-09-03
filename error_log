@@ -1,0 +1,59 @@
+[26-Sep-2024 07:48:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot5.php on line 11
+[26-Sep-2024 07:48:32 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot5.php on line 15
+[26-Sep-2024 07:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot5.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot5.php on line 24
+[26-Sep-2024 07:48:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot.php on line 13
+[26-Sep-2024 07:48:34 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot.php on line 17
+[26-Sep-2024 13:18:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot.php on line 28
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot5.php on line 11
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot5.php on line 15
+[26-Sep-2024 07:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot5.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot5.php on line 24
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot.php on line 13
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot.php on line 17
+[26-Sep-2024 13:19:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot.php on line 28
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot4.php on line 11
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot4.php on line 15
+[26-Sep-2024 07:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot4.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot4.php on line 24
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot1.php on line 12
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot1.php on line 16
+[26-Sep-2024 13:19:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot1.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot1.php on line 27
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot6.php on line 11
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot6.php on line 15
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot3.php on line 11
+[26-Sep-2024 07:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot6.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot6.php on line 24
+[26-Sep-2024 07:49:04 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot3.php on line 15
+[26-Sep-2024 07:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot3.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot3.php on line 24
+[26-Sep-2024 07:49:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/jhar703/public_html/boot.php on line 13
+[26-Sep-2024 07:49:33 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/jhar703/public_html/boot.php on line 17
+[26-Sep-2024 13:19:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/jhar703/public_html/boot.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/jhar703/public_html/boot.php on line 28
+[26-Sep-2024 18:12:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jhar703/public_html/avipre1.php:22) in /home/jhar703/public_html/avipre1.php on line 23
+[26-Sep-2024 18:38:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jhar703/public_html/avipre1.php:22) in /home/jhar703/public_html/avipre1.php on line 23
+[26-Sep-2024 18:39:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jhar703/public_html/avipre1.php:22) in /home/jhar703/public_html/avipre1.php on line 23
+[26-Sep-2024 18:41:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jhar703/public_html/avipre1.php:22) in /home/jhar703/public_html/avipre1.php on line 23
+[26-Sep-2024 18:41:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jhar703/public_html/avipre1.php:22) in /home/jhar703/public_html/avipre1.php on line 23
