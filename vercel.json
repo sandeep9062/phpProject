@@ -2,7 +2,7 @@
   "builds": [
     {
       "src": "/**",
-      "use": "@vercel/php"
+      "use": "@php-runtime/vercel-php"
     }
   ]
 }
