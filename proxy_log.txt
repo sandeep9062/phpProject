@@ -10,3 +10,9 @@
 2025-09-03 16:28:57 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null
 2025-09-03 16:29:00 - Request: /9987/src/api/bet.php?action=verifytoken&user=null?action=verifytoken&user=null
 2025-09-03 16:29:00 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null
+2025-09-03 16:33:09 - Request: /9987/src/api/bet.php?action=verifytoken&user=null?action=verifytoken&user=null
+2025-09-03 16:33:09 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null
+2025-09-03 16:34:03 - Request: /9987/src/api/bet.php?action=verifytoken&user=null?action=verifytoken&user=null
+2025-09-03 16:34:03 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null
+2025-09-03 16:35:45 - Request: /9987/src/api/bet.php?action=verifytoken&user=null?action=verifytoken&user=null
+2025-09-03 16:35:45 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null

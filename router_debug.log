@@ -1,0 +1,124 @@
+2025-09-03 16:33:08 - Request: /
+2025-09-03 16:33:08 - Request: /css/app.68a3b23d.css
+2025-09-03 16:33:08 - Request: /js/api-interceptor.js
+2025-09-03 16:33:08 - Request: /js/theme-switcher.js
+2025-09-03 16:33:08 - Request: /js/chunk-vendors.2e18015e.js
+2025-09-03 16:33:08 - Request: /js/app.2d5db97c.js
+2025-09-03 16:33:09 - Request: /9987/src/api/bet.php
+2025-09-03 16:33:09 - Request: /img/refresh_blue.0b830e0d.png
+2025-09-03 16:33:09 - Request: /img/refer_bn.svg
+2025-09-03 16:33:09 - Request: /img/fast-parity.d34591d4.jpg
+2025-09-03 16:33:09 - Request: /img/parity.81c4e073.jpg
+2025-09-03 16:33:09 - Request: /img/sapre.7347589b.jpg
+2025-09-03 16:33:09 - Request: /9987/src/api/bet.php
+2025-09-03 16:33:09 - Request: /img/jetx.2c3b7a7c.png
+2025-09-03 16:33:09 - Request: /css/about.07090e8c.css
+2025-09-03 16:33:09 - Request: /img/wheel1.4743e746.png
+2025-09-03 16:33:09 - Request: /img/dice.23747e64.jpg
+2025-09-03 16:33:09 - Request: /img/3327554_407070-PD1IM8-874.jpg
+2025-09-03 16:33:09 - Request: /img/MineSweeper.22cd4b79.png
+2025-09-03 16:33:09 - Request: /img/AnB.4c7b9686.jpg
+2025-09-03 16:33:09 - Request: /img/wheel.f51a8aa0.png
+2025-09-03 16:33:09 - Request: /img/banner.01a4ae43shiv.png
+2025-09-03 16:33:09 - Request: /js/about.5ef6c957.js
+2025-09-03 16:33:09 - Request: /img/logo.a9735a0f.png
+2025-09-03 16:33:09 - Request: /@vite/client
+2025-09-03 16:34:03 - Request: /
+2025-09-03 16:34:03 - Request: /css/app.68a3b23d.css
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/css/app.68a3b23d.css with extension css
+2025-09-03 16:34:03 - Request: /js/api-interceptor.js
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/api-interceptor.js with extension js
+2025-09-03 16:34:03 - Request: /js/theme-switcher.js
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/theme-switcher.js with extension js
+2025-09-03 16:34:03 - Request: /js/chunk-vendors.2e18015e.js
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/chunk-vendors.2e18015e.js with extension js
+2025-09-03 16:34:03 - Request: /js/app.2d5db97c.js
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/app.2d5db97c.js with extension js
+2025-09-03 16:34:03 - Request: /9987/src/api/bet.php
+2025-09-03 16:34:03 - Request: /img/refresh_blue.0b830e0d.png
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/refresh_blue.0b830e0d.png with extension png
+2025-09-03 16:34:03 - Request: /img/refer_bn.svg
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/refer_bn.svg with extension svg
+2025-09-03 16:34:03 - Request: /img/fast-parity.d34591d4.jpg
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/fast-parity.d34591d4.jpg with extension jpg
+2025-09-03 16:34:03 - Request: /img/parity.81c4e073.jpg
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/parity.81c4e073.jpg with extension jpg
+2025-09-03 16:34:03 - Request: /img/sapre.7347589b.jpg
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/sapre.7347589b.jpg with extension jpg
+2025-09-03 16:34:03 - Request: /9987/src/api/bet.php
+2025-09-03 16:34:03 - Request: /css/about.07090e8c.css
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/css/about.07090e8c.css with extension css
+2025-09-03 16:34:03 - Request: /img/dice.23747e64.jpg
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/dice.23747e64.jpg with extension jpg
+2025-09-03 16:34:03 - Request: /img/AnB.4c7b9686.jpg
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/AnB.4c7b9686.jpg with extension jpg
+2025-09-03 16:34:03 - Request: /img/wheel.f51a8aa0.png
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/wheel.f51a8aa0.png with extension png
+2025-09-03 16:34:03 - Request: /img/wheel1.4743e746.png
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/wheel1.4743e746.png with extension png
+2025-09-03 16:34:03 - Request: /img/jetx.2c3b7a7c.png
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/jetx.2c3b7a7c.png with extension png
+2025-09-03 16:34:03 - Request: /img/MineSweeper.22cd4b79.png
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/MineSweeper.22cd4b79.png with extension png
+2025-09-03 16:34:03 - Request: /img/3327554_407070-PD1IM8-874.jpg
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/3327554_407070-PD1IM8-874.jpg with extension jpg
+2025-09-03 16:34:03 - Request: /img/banner.01a4ae43shiv.png
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/banner.01a4ae43shiv.png with extension png
+2025-09-03 16:34:03 - Request: /js/about.5ef6c957.js
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/about.5ef6c957.js with extension js
+2025-09-03 16:34:03 - Request: /img/logo.a9735a0f.png
+2025-09-03 16:34:03 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/logo.a9735a0f.png with extension png
+2025-09-03 16:34:03 - Request: /@vite/client
+2025-09-03 16:34:42 - Request: /js/theme-switcher.js
+2025-09-03 16:34:42 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/theme-switcher.js with extension js
+2025-09-03 16:34:53 - Request: /js/chunk-vendors.2e18015e.js
+2025-09-03 16:34:53 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/chunk-vendors.2e18015e.js with extension js
+2025-09-03 16:35:04 - Request: /js/app.2d5db97c.js
+2025-09-03 16:35:04 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/app.2d5db97c.js with extension js
+2025-09-03 16:35:45 - Request: /
+2025-09-03 16:35:45 - Request: /css/app.68a3b23d.css
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/css/app.68a3b23d.css with extension css
+2025-09-03 16:35:45 - Request: /js/api-interceptor.js
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/api-interceptor.js with extension js
+2025-09-03 16:35:45 - Request: /js/theme-switcher.js
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/theme-switcher.js with extension js
+2025-09-03 16:35:45 - Request: /js/chunk-vendors.2e18015e.js
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/chunk-vendors.2e18015e.js with extension js
+2025-09-03 16:35:45 - Request: /js/app.2d5db97c.js
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/app.2d5db97c.js with extension js
+2025-09-03 16:35:45 - Request: /9987/src/api/bet.php
+2025-09-03 16:35:45 - Request: /img/refresh_blue.0b830e0d.png
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/refresh_blue.0b830e0d.png with extension png
+2025-09-03 16:35:45 - Request: /img/refer_bn.svg
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/refer_bn.svg with extension svg
+2025-09-03 16:35:45 - Request: /img/fast-parity.d34591d4.jpg
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/fast-parity.d34591d4.jpg with extension jpg
+2025-09-03 16:35:45 - Request: /img/parity.81c4e073.jpg
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/parity.81c4e073.jpg with extension jpg
+2025-09-03 16:35:45 - Request: /img/sapre.7347589b.jpg
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/sapre.7347589b.jpg with extension jpg
+2025-09-03 16:35:45 - Request: /9987/src/api/bet.php
+2025-09-03 16:35:45 - Request: /css/about.07090e8c.css
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/css/about.07090e8c.css with extension css
+2025-09-03 16:35:45 - Request: /img/MineSweeper.22cd4b79.png
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/MineSweeper.22cd4b79.png with extension png
+2025-09-03 16:35:45 - Request: /img/wheel.f51a8aa0.png
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/wheel.f51a8aa0.png with extension png
+2025-09-03 16:35:45 - Request: /img/wheel1.4743e746.png
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/wheel1.4743e746.png with extension png
+2025-09-03 16:35:45 - Request: /img/jetx.2c3b7a7c.png
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/jetx.2c3b7a7c.png with extension png
+2025-09-03 16:35:45 - Request: /img/AnB.4c7b9686.jpg
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/AnB.4c7b9686.jpg with extension jpg
+2025-09-03 16:35:45 - Request: /img/dice.23747e64.jpg
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/dice.23747e64.jpg with extension jpg
+2025-09-03 16:35:45 - Request: /img/3327554_407070-PD1IM8-874.jpg
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/3327554_407070-PD1IM8-874.jpg with extension jpg
+2025-09-03 16:35:45 - Request: /img/banner.01a4ae43shiv.png
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/banner.01a4ae43shiv.png with extension png
+2025-09-03 16:35:45 - Request: /js/about.5ef6c957.js
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/js/about.5ef6c957.js with extension js
+2025-09-03 16:35:45 - Request: /img/logo.a9735a0f.png
+2025-09-03 16:35:45 - Serving file: /Users/sandeepsaini/Desktop/well-known/img/logo.a9735a0f.png with extension png
+2025-09-03 16:35:45 - Request: /@vite/client
+2025-09-03 16:35:55 - Request: /
