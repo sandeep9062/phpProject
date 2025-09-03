@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" href="/favicon.ico">
     <title>Jhargames</title>
+    <!-- API Interceptor script to handle external API calls -->
+    <script src="/js/api-interceptor.js"></script>
     <script defer="defer" src="/js/chunk-vendors.2e18015e.js"></script>
     
     <script defer="defer" src="/js/app.2d5db97c.js"></script>
