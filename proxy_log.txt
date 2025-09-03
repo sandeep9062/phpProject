@@ -6,3 +6,7 @@
 2025-09-03 16:15:02 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null
 2025-09-03 16:15:54 - Request: /9987/src/api/bet.php?action=verifytoken&user=null?action=verifytoken&user=null
 2025-09-03 16:15:54 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null
+2025-09-03 16:28:57 - Request: /9987/src/api/bet.php?action=verifytoken&user=null?action=verifytoken&user=null
+2025-09-03 16:28:57 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null
+2025-09-03 16:29:00 - Request: /9987/src/api/bet.php?action=verifytoken&user=null?action=verifytoken&user=null
+2025-09-03 16:29:00 - Request: /9987/src/api/bet.php?action=getuserinfo&user=null?action=getuserinfo&user=null

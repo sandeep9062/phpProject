@@ -13,6 +13,7 @@
     <script defer="defer" src="/js/app.2d5db97c.js"></script>
     <link href="/css/app.68a3b23d.css" rel="stylesheet" id="theme-style">
     <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="apple-touch-icon" href="/img/icon.png">
     <style>
@@ -90,11 +91,12 @@
 
     <div id="app"></div>
 
-    <script src="/js/theme-switcher.js"></script>
     <script>
         function closePopup() {
             document.getElementById('theme-popup').classList.add('hidden');
         }
+    </script>
+    <script src="/js/theme-switcher.js"></script>
 
         // Optionally, you can open the popup automatically on page load
         window.onload = function() {
